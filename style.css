@@ -1,0 +1,56 @@
+body {
+	background-image: url(fondo.jpg);
+}
+.Blanco {
+	color: #FFF;
+}
+#apDiv1 {
+	position: absolute;
+	width: 326px;
+	height: 352px;
+	z-index: 1;
+	left: 10px;
+	top: 86px;
+}
+.Azul {
+	color: #00F;
+}
+.Negro {
+	color: #000;
+}
+sa {
+	color:#F00;
+	font-size: 36px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+nat {
+	color:#F0F;
+	font-size:36px;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+yur {
+	color:#90F;
+	font-size:36px;
+	font-family:"Times New Roman", Times, serif;
+}
+moni {
+	color:#090;
+	font-size:36px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+mc {
+	color: #333;
+	font-size:36px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+rem {
+	background-color:#0CF;
+	font-size:24px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	alignment-adjust:central;
+}
+bea {
+	color:#F30;
+	font-size:36px;
+	font-family:"Courier New", Courier, monospace;
+}
